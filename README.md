@@ -1,17 +1,9 @@
-# Estudy-Front
+# DataTables-Examples
+Demo referente a Child rows:
 
-Demo referente a page-2:
+- link
 
-- http://hello-worlds-bootstrap.s3-website-us-east-1.amazonaws.com
+Demo referente a Select integration:
 
-Demo referente a page-1:
+- link
 
-- http://test-post-romeu.s3-website-us-east-1.amazonaws.com/ 
-
-Demo referente a Responsive-Side-Navigation-Bar:
-
-- http://responsive-side-navigation-bar.s3-website-us-east-1.amazonaws.com/
-
-Demo referente a PRÁTICA DE DESENVOLVIMENTO WEB – HTML:
-
-- http://web-development-practice-html.s3-website-us-east-1.amazonaws.com/index.html
